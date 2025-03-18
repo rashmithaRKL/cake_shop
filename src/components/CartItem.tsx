@@ -1,6 +1,6 @@
 
 import { Plus, Minus, Trash2 } from 'lucide-react';
-import { useCart } from '@/context/CartContext';
+import { useCart } from '../context/CartContext';
 import { cn } from '@/lib/utils';
 
 interface CartItemProps {

@@ -1,9 +1,9 @@
 
 import React, { createContext, useContext, useReducer, useEffect } from 'react';
-import { Product } from '../data/products';
+import { Product } from '@/data/products';
 import { toast } from "sonner";
 
-interface CartItem extends Product {
+export interface CartItem extends Product {
   quantity: number;
 }
 

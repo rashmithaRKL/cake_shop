@@ -1,7 +1,8 @@
+
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ShoppingBag, ArrowRight, CreditCard, Trash2 } from 'lucide-react';
-import { useCart } from '../context/CartContext';
+import { useCart } from '@/context/CartContext';
 import CartItem from '../components/CartItem';
 import { toast } from "sonner";
 

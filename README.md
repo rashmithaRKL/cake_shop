@@ -1,28 +1,36 @@
-# Welcome to your Lovable project
+## Tranquil Haven
 
-## Project info
+## About
 
-**URL**: https://lovable.dev/projects/0d9df63a-df41-4c01-b080-60c45bf53424
+Tranquil Haven is a luxury resort and hotel website built using TypeScript.
+It is designed to provide a seamless user experience for booking premium rooms, exploring fine dining options, and accessing world-class spa services.
 
-## How can I edit this code?
+Every detail is crafted to convey elegance, comfort, and ultimate relaxation.
 
-There are several ways of editing your application.
+This project is developed by Dexlanka Software Solutions — dexlanka.com.
 
-**Use Lovable**
+You can view the live website here: Visit Tranquil Haven
+(Replace # with your published site link)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0d9df63a-df41-4c01-b080-60c45bf53424) and start prompting.
+## Features
 
-Changes made via Lovable will be committed automatically to this repo.
+🌴 Elegant landing page showcasing resort highlights
 
-**Use your preferred IDE**
+🍽 Fine dining experiences by top chefs
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🛌 Premium room booking with scenic views
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+💆 Wellness spa treatments and services
 
-Follow these steps:
+📱 Fully responsive design for mobile, tablet, and desktop
 
-```sh
+⚡ Fast, modern, and built with TypeScript
+
+## How to Run Locally
+
+Follow these steps to set up and run the project on your local machine:
+
+sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -30,40 +38,14 @@ git clone <YOUR_GIT_URL>
 cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Project Information
 
-**Use GitHub Codespaces**
+Developed by: Dexlanka Software Solutions
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0d9df63a-df41-4c01-b080-60c45bf53424) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Technologies used: TypeScript, [add others like React, TailwindCSS, etc. if used]
